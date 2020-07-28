@@ -68,3 +68,27 @@
 {
     line-height: 20px;
 }
+
+.hero-img img
+{
+    position: absolute;
+    top: 15%;
+    right: 5%;
+    width: 620px;
+    height: 540px;
+    border-radius: 50%;
+    background-color: #d6ab00;
+    
+}
+
+button
+{
+    position: absolute;
+    top: 50%;
+    left: 10%;
+}
+/* 
+.hero-img
+{
+    transform: rotate(315deg);
+} */
