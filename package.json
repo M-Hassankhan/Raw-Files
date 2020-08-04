@@ -1,0 +1,24 @@
+{
+    "name": "raw-files",
+    "version": "1.0.0",
+    "description": "Creating a test directory",
+    "main": "index.html",
+    "scripts": {
+        "start": "npm run lite",
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "lite": "lite-server"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/M-Hassankhan/Raw-Files.git"
+    },
+    "author": "M. Hassan Khan",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/M-Hassankhan/Raw-Files/issues"
+    },
+    "homepage": "https://github.com/M-Hassankhan/Raw-Files#readme",
+    "devDependencies": {
+        "lite-server": "^2.5.4"
+    }
+}
